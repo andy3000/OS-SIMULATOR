@@ -1,0 +1,13 @@
+Start Simulator Configuration File
+Version: 1
+Filepath: metadata.txt
+Quantum(cycles): 3
+Processor Scheduling: Round Robin
+Processor cycle time (msec): 10
+Monitor display time (msec): 25
+Hard drive cycle time (msec): 50
+Printer cycle time (msec): 500
+Keyboard cycle time (msec): 1000
+Memory type: FIXED
+Log: Log to Both
+End Simulator Configuration File
